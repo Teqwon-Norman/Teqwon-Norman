@@ -1,16 +1,14 @@
 ### Hello, I am Teqwon Norman! 👋
 
-<div>
-<p align="center"><ul>
-            <li>🔭 <b>I’m currently working on creating a stock trading bot.</li>
-            <li>🎯 <b>I'm currently learning C++.</li>
-            <li>🤔 <b>I’m an incoming SWE Intern @</b>: [Google](https://www.google.com/)</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="mailto:teqwon.norman96@gmail.com">EMAIL</a>.</li>
-            <li>👨‍💻 <b>I'm looking for help with React/Typescript.</li>
-            <li>⚡ <b>Fun fact: I study economics on my free time.</li>
-            <li>📫 <b>How to reach me: [Instagram - @laidback_trading](https://www.instagram.com/laidback_trading/)</li>
-</ul></p>
-</div>
+<p align="center">
+            🔭 I’m currently working on creating a stock trading bot.
+            🎯 I'm currently learning C++.
+🤔 I’m an incoming SWE Intern @</b>: [Google](https://www.google.com/)
+💬 Ask me about anything</b>: <a href="mailto:teqwon.norman96@gmail.com">EMAIL</a>.
+👨‍💻 I'm looking for help with React/Typescript.
+⚡ Fun fact: I study economics on my free time.
+📫 How to reach me: [Instagram - @laidback_trading](https://www.instagram.com/laidback_trading/)
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=great-gatsby" /></p>
 
