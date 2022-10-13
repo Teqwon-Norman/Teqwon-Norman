@@ -14,3 +14,5 @@
 [![Teqwon Norman GitHub stats](https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=great-gatsby)](https://[github.com/Teqwon-Norman](https://github.com/Teqwon-Norman)/github-readme-stats)
 
         
+## Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
