@@ -1,15 +1,16 @@
-### Hello, I am Teqwon Norman! 👋
+<h1>Teqwon Norman</h1>
 
-![35458](https://user-images.githubusercontent.com/73213667/195757540-9d45a2ff-4701-4a9c-83fd-2d84bed889b5.gif)
+# ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73213667/195758709-61ca650d-9f05-4058-8b23-a21799f2e498.gif)
 
-
-- 🔭 I’m currently working on creating a stock trading bot.
-- 🎯 I'm currently learning C++.
-- 🤔 I’m an incoming SWE Intern @</b>: [Google](https://www.google.com/)
-- 💬 Ask me about anything</b>: <a href="mailto:teqwon.norman96@gmail.com">EMAIL</a>.
-- 👨‍💻 I'm looking for help with React/Typescript.
-- ⚡ Fun fact: I study economics on my free time.
-- 📫 How to reach me: [Instagram - @laidback_trading](https://www.instagram.com/laidback_trading/)
+### Things i've used to code with :alien:
+![shield](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![shield](https://img.shields.io/badge/-React-45b8d8?&style=flat&logo=react&logoColor=white)
+![shield](https://img.shields.io/badge/-Python-E34F26?style=flat&logo=html5&logoColor=white)
+![shield](https://img.shields.io/badge/-React-45b8d8?&style=flat&logo=react&logoColor=white)
+![shield](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![shield](https://img.shields.io/badge/-React-45b8d8?&style=flat&logo=react&logoColor=white)
+![shield](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![shield](https://img.shields.io/badge/-React-45b8d8?&style=flat&logo=react&logoColor=white)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=great-gatsby" /></p>
 
