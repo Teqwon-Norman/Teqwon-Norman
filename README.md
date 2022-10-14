@@ -1,9 +1,5 @@
 ### Hello, I am Teqwon Norman! 👋
 
-<p align="center"><img src="/>
-
-</p>
-
 - 🔭 I’m currently working on creating a stock trading bot.
 - 🎯 I'm currently learning C++.
 - 🤔 I’m an incoming SWE Intern @</b>: [Google](https://www.google.com/)
