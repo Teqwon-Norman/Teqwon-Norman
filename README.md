@@ -35,6 +35,174 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=gruvbox_light"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqwon-Norman&langs_count=9&theme=gruvbox_light&layout=compact"/></p>
 
+<h1 align="center">TOP 21 FOLLOWERS</h1>
+
+<!--START::Top 15 Followers -->                                         
+<table>
+  <!--  ROW 1 STARTS HERE  -->
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/thisisbillgates/">
+        <img src="https://user-images.githubusercontent.com/73213667/195856420-53d25baa-01ec-4f4c-8c61-70b2501f8dd9.jpg" width="100px;" alt="Bill Gates"/>
+      </a>
+      <br />
+      <a href="https://www.instagram.com/thisisbillgates/">Bill Gates</a>
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/elonmusk">
+        <img src="https://user-images.githubusercontent.com/73213667/195857608-45e7ea95-057f-4fbb-88d7-45f92ce93645.jpg" width="100px;" alt="Elon Musk"/>
+      </a>
+      <br />
+      <a href="https://twitter.com/elonmusk">Elon Musk</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://user-images.githubusercontent.com/73213667/195859000-7d753e3c-2b0c-4d31-8558-80446400ffe6.jpg" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Annie Easley</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sbilly">
+        <img src="https://user-images.githubusercontent.com/73213667/195859279-b3aa64dc-8ba8-43c8-b497-df2a6d05dc92.jpg" width="100px;" alt="sbilly"/>
+      </a>
+      <br />
+      <a href="https://github.com/sbilly">Jerry Lawson</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Clarence "Skip" Ellis</a>
+   </td>
+   <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Clarence "Skip" Ellis</a>
+   </td>
+   <td align="center">
+      <a href="https://github.com/Leticia-maria">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Leticia-maria">Clarence "Skip" Ellis</a>
+    </td> 
+   </tr>
+   <!--  ROW 1 ENDS HERE  -->
+        
+   <!--  ROW 2 STARTS HERE  -->
+   <tr>
+    <td align="center">
+      <a href="">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href=""></a>
+    </td>
+    <td align="center">
+      <a href="">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href=""></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/bitmote">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/bitmote"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AlphaTechnolog">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlphaTechnolog"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pinhe91">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/pinhe91"></a>
+   </td>
+   <td align="center">
+      <a href="https://github.com/pinhe91">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/pinhe91"></a>
+   </td>
+   <td align="center">
+      <a href="https://github.com/pinhe91">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/pinhe91"></a>
+   </td>        
+  </tr>
+<!--  ROW 2 ENDS HERE  -->
+        
+<!--  ROW 3 STARTS HERE  -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zhuwenxing">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/zhuwenxing"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/victoryang00">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/victoryang00"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cnsuhao">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/cnsuhao"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Matrixbirds">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Matrixbirds"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Matrixbirds">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Matrixbirds"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Matrixbirds">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Matrixbirds"></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Matrixbirds">
+        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      </a>
+      <br />
+      <a href="https://github.com/Matrixbirds"></a>
+    </td>
+  </tr>
+</table>
+
+<!--END::Top 15 Followers -->
+
         
 ## A 🐍 That Feeds On Daily Contributions... I've Killed Mines 5 Times Already 😭.
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
