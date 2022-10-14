@@ -35,6 +35,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=gruvbox_light"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqwon-Norman&langs_count=9&theme=gruvbox_light&layout=compact"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Teqwon_Norman"/></p>
 
 <h1 align="center">TOP 21 FOLLOWERS</h1>
 
