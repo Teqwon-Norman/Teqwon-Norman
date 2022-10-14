@@ -1,4 +1,11 @@
-<h1>Teqwon Norman</h1>
+<h1 align="center">
+         Hi 👋, I'm Teqwon Norman
+</h1>
+
+
+<h1 align="center">
+        ONE-PIECE IS MY FAVORITE ANIME:bangbang::bangbang:
+</h1>
 
 # ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73213667/195758709-61ca650d-9f05-4058-8b23-a21799f2e498.gif)
 
