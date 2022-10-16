@@ -79,18 +79,18 @@
       <a href="https://github.com/Leticia-maria">Clarence "Skip" Ellis</a>
    </td>
    <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      <a href="https://www.instagram.com/steven__tab/">
+        <img src="https://user-images.githubusercontent.com/73213667/196022688-bfa2de22-58ed-411b-9963-c3db57ab70ba.png" width="100px;" alt="Steven Taborda"/>
       </a>
       <br />
-      <a href="https://github.com/Leticia-maria">Clarence "Skip" Ellis</a>
+      <a href="https://www.instagram.com/steven__tab/">Steven Taborda</a>
    </td>
    <td align="center">
-      <a href="https://github.com/Leticia-maria">
-        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      <a href="https://github.com/Megaminxception">
+        <img src="https://user-images.githubusercontent.com/73213667/196022915-28b7bd5b-b214-44cb-96ee-5a5268aeedcf.jpg" width="100px;" alt="Elijah Truitt"/>
       </a>
       <br />
-      <a href="https://github.com/Leticia-maria">Clarence "Skip" Ellis</a>
+      <a href="https://github.com/Megaminxception">Elijah Truitt</a>
     </td> 
    </tr>
    <!--  ROW 1 ENDS HERE  -->
@@ -98,25 +98,25 @@
    <!--  ROW 2 STARTS HERE  -->
    <tr>
     <td align="center">
-      <a href="">
-        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      <a href="https://github.com/mlefeb01">
+        <img src="https://cdn.discordapp.com/attachments/935037889430044716/1030482222593097739/67BFE913-045F-470E-88F6-E1CF6D9EEB36.jpg" width="100px;" alt="Matthew Lefebvre"/>
       </a>
       <br />
-      <a href=""></a>
+      <a href="https://github.com/mlefeb01">Matthew Lefebvre</a>
     </td>
     <td align="center">
-      <a href="">
-        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      <a href="https://www.instagram.com/zuck/">
+        <img src="https://user-images.githubusercontent.com/73213667/196023465-1912ece3-ba43-455c-b696-267eecf02d81.jpg" width="100px;" alt="Mark Zuckerberg"/>
       </a>
       <br />
-      <a href=""></a>
+      <a href="https://www.instagram.com/zuck/">Mark Zuckerberg</a>
     </td>
     <td align="center">
-      <a href="https://github.com/bitmote">
-        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      <a href="https://www.instagram.com/iddrissandu/">
+        <img src="https://user-images.githubusercontent.com/73213667/196023626-c5049c5e-5687-42f9-8362-c111a2000ba2.jpg" width="100px;" alt="Iddris Sandu"/>
       </a>
       <br />
-      <a href="https://github.com/bitmote"></a>
+      <a href="https://https://www.instagram.com/iddrissandu/">Iddris Sandu</a>
     </td>
     <td align="center">
       <a href="https://github.com/AlphaTechnolog">
