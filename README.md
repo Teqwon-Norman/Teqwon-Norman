@@ -33,10 +33,14 @@
         <img alt="VScode" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 </p>
 
+### How much time i've been coding with github repository projects since <Oct 14, 2022> :hourglass:
+<p><img src="https://wakatime.com/badge/user/7d3010b7-1d21-4afd-a2c7-9f441e074ad7.svg"/></p>
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=gruvbox_light"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqwon-Norman&langs_count=9&theme=gruvbox_light&layout=compact"/></p>
 
-<h1 align="center">TOP 21 FOLLOWERS</h1>
+<h1 align="center"><strong>TOP 21 FOLLOWERS</h1>
 
 <!--START::Top 15 Followers -->                                         
 <table>
