@@ -122,11 +122,11 @@
       <a href="https://https://www.instagram.com/iddrissandu/">Iddris Sandu</a>
     </td>
     <td align="center">
-      <a href="https://github.com/AlphaTechnolog">
-        <img src="https://user-images.githubusercontent.com/73213667/195861268-56ab0df9-4ac2-42ed-92da-ff837db9713f.jpg" width="100px;" alt="Leticia-maria"/>
+      <a href="https://instagram.com/evii.codes/">
+        <img src="https://github.com/Teqwon-Norman/Teqwon-Norman/assets/73213667/6f87f5cc-f930-4175-b76b-b454b40d93ea" width="100px;" alt="Evolyne Layne"/>
       </a>
       <br />
-      <a href="https://github.com/AlphaTechnolog"></a>
+      <a href="https://instagram.com/evii.codes/">Evolyne Layne</a>
     </td>
     <td align="center">
       <a href="https://github.com/pinhe91">
