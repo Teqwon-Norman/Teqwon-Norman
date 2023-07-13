@@ -123,10 +123,10 @@
     </td>
     <td align="center">
       <a href="https://instagram.com/evii.codes/">
-        <img src="https://github.com/Teqwon-Norman/Teqwon-Norman/assets/73213667/6f87f5cc-f930-4175-b76b-b454b40d93ea" width="100px;" alt="Evolyne Layne"/>
+        <img src="https://github.com/Teqwon-Norman/Teqwon-Norman/assets/73213667/6f87f5cc-f930-4175-b76b-b454b40d93ea" width="100px;" alt="Evolone Layne"/>
       </a>
       <br />
-      <a href="https://instagram.com/evii.codes/">Evolyne Layne</a>
+      <a href="https://instagram.com/evii.codes/">Evolone Layne</a>
     </td>
     <td align="center">
       <a href="https://github.com/pinhe91">
