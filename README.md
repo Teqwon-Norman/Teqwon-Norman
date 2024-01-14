@@ -9,7 +9,7 @@
 
 # ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73213667/195758709-61ca650d-9f05-4058-8b23-a21799f2e498.gif)
 
-### Things i've used to code with :alien:
+### Things I've used to code with :alien:
 <p>
         <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00c8ff" />
         <img alt="Express" src="https://img.shields.io/badge/-Express-787878?style=flat-sqaure&logo=express&logoColor=white">
@@ -32,10 +32,6 @@
         <img alt="Github" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=white">
         <img alt="VScode" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 </p>
-
-### How much time i've been coding with github repository projects since <Oct 14, 2022> :hourglass:
-<p><img src="https://wakatime.com/badge/user/7d3010b7-1d21-4afd-a2c7-9f441e074ad7.svg"/></p>
-
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Teqwon-Norman&show_icons=true&theme=gruvbox_light"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teqwon-Norman&langs_count=9&theme=gruvbox_light&layout=compact"/></p>
@@ -209,7 +205,7 @@
 <!--END::Top 15 Followers -->
 
         
-## A 🐍 That Feeds On Daily Contributions... I've Killed Mines 5 Times Already 😭.
+## A 🐍 That Feeds On Daily Contributions... I've Starved Mine 5 Times Already 😭.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -220,7 +216,7 @@
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation."
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
