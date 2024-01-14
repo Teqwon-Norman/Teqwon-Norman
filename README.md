@@ -4,7 +4,7 @@
 
 
 <h1 align="center" color="red">
-        ONE-PIECE IS MY FAVORITE ANIME:bangbang::bangbang:
+        ONE-PIECE IS MY FAVORITE ANIME 😈
 </h1>
 
 # ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73213667/195758709-61ca650d-9f05-4058-8b23-a21799f2e498.gif)
