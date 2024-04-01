@@ -7,7 +7,8 @@
         ONE-PIECE IS MY FAVORITE ANIME 😈
 </h1>
 
-# ![ezgif com-gif-maker](https://user-images.githubusercontent.com/73213667/195758709-61ca650d-9f05-4058-8b23-a21799f2e498.gif)
+
+<img src="https://github.com/Teqwon-Norman/Teqwon-Norman/assets/73213667/93a54dfb-e4f7-4352-b0f5-1f5ab4c52e3f" alt="Gear 5 Luffy Gif" style="width: 1050px; height: 350px;"> 
 
 ### Things I've used to code with :alien:
 <p>
